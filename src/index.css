@@ -65,6 +65,9 @@ ol li{
   background: #fff;
   text-transform: capitalize;
   border-radius: 5px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
 }
 
 .text{
